@@ -26,5 +26,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "- Understand what a React component is and what it can be used for\r - Write React components and identify the DOM elements they create",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hend178/react-hooks-components-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hend178/react-hooks-components-basics/issues"
+  },
+  "homepage": "https://github.com/hend178/react-hooks-components-basics#readme"
 }
